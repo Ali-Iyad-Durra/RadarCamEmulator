@@ -1,4 +1,4 @@
-[Download RadarCamEmulator Setup Directly Here](https://github.com/Ali-Iyad-Durra/RadarCamEmulator/releases/download/Radar/RadarCam.exe)
+[Download RadarCamEmulator Setup Directly Here](https://github.com/Ali-Iyad-Durra/RadarCamEmulator/releases/download/Radar/RadarCamEmulator.exe)
 ______________________________________________________________________________________________
 RadarCamEmulator: Blue Object Detector 🔵🛰️
 RadarCamEmulator is a specialized computer vision tool designed to identify and track blue-colored objects within a camera's field of view in real-time. By leveraging color-space filtering, it isolates specific blue hue ranges and emulates a radar-like tracking system for those targets.
