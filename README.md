@@ -1,4 +1,5 @@
-[Download RadarCamEmulator Setup Directly Here](https://github.com/Ali-Iyad-Durra/RadarCamEmulator/releases/download/Radar/RadarCamEmulator.exe)
+$[Download RadarCamEmulator Setup Directly Here](https://github.com/Ali-Iyad-Durra/RadarCamEmulator/releases/download/Radar/RadarCamEmulator.exe)$
+
 <img width="598" height="464" alt="Capture" src="https://github.com/user-attachments/assets/ef965dea-98bf-43e0-9da5-d16cf79979f3" />
 
 ______________________________________________________________________________________________
